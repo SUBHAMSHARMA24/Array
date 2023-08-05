@@ -1,4 +1,4 @@
-public class Greateroccurence
+public class Greateroccurence 
 {
     static int Greaterocc(int arr[], int x){
         int count=0;
