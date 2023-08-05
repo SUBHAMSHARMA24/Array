@@ -1,4 +1,4 @@
-public class Lastoccurance
+public class Lastoccurence
 {
     static int Lastocc(int arr[], int x){
         int lastindex=-1;;
