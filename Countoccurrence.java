@@ -7,10 +7,6 @@ public class Countoccurrence
         for(int i=0;i<=arr.length-1;i++){
             if(arr[i]==x){
                 count +=1;
-            
-            }
-            else{
-                count=count;
             }
         }
         return count;
